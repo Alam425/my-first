@@ -1,0 +1,21 @@
+.green{
+    color: rgb(255, 1, 1);
+}
+.nai{
+    color: turquoise;
+}
+.hi{
+    background-color: rgb(187, 154, 53);
+    border-radius: 50px;
+    border: 10px dotted rgba(238, 255, 80, 0.907);
+    margin: 5px 15px 25px 35px;
+    padding: 5px 15px 25px 35px;
+}
+h3{
+    color: rgb(157, 80, 182);
+    height: 80px;
+    box-shadow: 20px 20px red;
+    text-emphasis-color: rgb(112, 121, 218);
+    text-decoration: underline wavy magenta 2px;
+    font-size: 30px;
+}
